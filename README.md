@@ -1,2 +1,2 @@
 # cartoon-heroine
-A hand coded website about my cartoon hero
+A hand coded website about my cartoon heroine
