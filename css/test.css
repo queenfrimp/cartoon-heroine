@@ -1,0 +1,12 @@
+body{
+	background-color: lightgreen;
+}
+
+#first{
+	font-size: 12px;
+}
+
+h2{
+	font-size: 50px; 
+	text-decoration: line-through;
+}
