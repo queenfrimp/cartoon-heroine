@@ -61,3 +61,7 @@ footer ul li{
     display: inline;
     
 }
+
+marquee{
+    font-size: 40px;
+}
